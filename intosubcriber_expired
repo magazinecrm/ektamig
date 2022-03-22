@@ -1,0 +1,6 @@
+drop sequence d_ono ;
+drop sequence gtino;
+drop sequence d_subscription_seq2223;
+create sequence d_ono increment by 1 start with 1 nocache;
+create sequence gtino increment by 1 start with 1 nocache;
+create sequence d_subscription_seq2223 start with 1 nocache;
