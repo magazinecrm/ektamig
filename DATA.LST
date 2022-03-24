@@ -1,0 +1,106 @@
+SQL> l
+  1*  select ID,name ,pin,ADD_ from temp_subvep where mflag= 'D'
+SQL> /
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+        21 Pooja Pawar                               Tclp-Deepalaya             
+                                                     B 65 Panchsheel Viha       
+                                                     r                          
+                                                     (Behind Triveni Comm       
+                                                     ercial Complex)            
+                                                     Panchsheel Vihar           
+                                                     Sheikh Sarai Phase 1       
+                                                                                
+                                                     New Delhi - 17             
+                                                                                
+        22 Tclp-Agrasar                                                         
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+                                                     C/O Shubha Bahl            
+                                                     G9/4 Dlf Phase 1           
+                                                     Gurugram 122002            
+                                                                                
+        66 Aparita Bhandari                                                     
+                                                     134-A Finch Ave West       
+                                                                                
+                                                     North York, Ontario        
+                                                     M2N 2H9                    
+                                                     Canada                     
+                                                                                
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+        81 Guruprem Dass  Kapoo                      Noida Educational Ac       
+           r                                         ademy,  C-237 Pocket       
+                                                      Vii , Kenderiya Vih       
+                                                     ar Ii                      
+                                                     Sector 82                  
+                                                     Noida                      
+                                                     Noida - 201304             
+                                                     Uttar Pradesh              
+                                                                                
+        82 Mr. Rahul Gupta                           Mr. Rahul Gupta            
+                                                     Ansh Filling Station       
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+                                                     , Nh509,                   
+                                                     Chandausi Road, Bahj       
+                                                     oi,                        
+                                                     Distt Sambhal, Up 24       
+                                                     4410                       
+                                                     9690794507                 
+                                                                                
+       102 B.D.Somani Internati                      B.D.Somani Internati       
+           onal School, Primary                      onal School, Primary       
+                                                      Library                   
+                                                     C/O Liga Prabhu            
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+                                                     625, G.D.Somani Marg       
+                                                     , Cuffe Parade             
+                                                     Mumbai - 400005            
+                                                                                
+       114 Nahar International                                                  
+           School                                    Nahar'S Amrit Shakti       
+                                                     ,                          
+                                                     Chandivili Farm Road       
+                                                                                
+                                                     Off Saki Vihar Road,       
+                                                                                
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+                                                     Andheri East               
+                                                     Mumbai 400 072             
+                                                     Ph: 02268385500            
+                                                                                
+       132 Madhumita Ganguli                         House No. 1/20, Sund       
+                                                     ar Vihar (Paschim Vi       
+                                                     har)                       
+                                                                                
+       312 Shokeen Babies                            Zaara Kakoty-Shah L-       
+                                                     242, Nar Vihar-2 Sec       
+                                                     tor 32, Noida              
+
+        ID NAME                 PIN                  ADD_                       
+---------- -------------------- -------------------- --------------------       
+                                                                                
+       295 Vishal Verma                              U22/76   ,Ist Floor        
+                                                     , Pink Town Houses D       
+                                                     LF-3, Gurgaon (HC) U       
+                                                     -Bllock                    
+                                                                                
+
+10 rows selected.
+
+SQL> 
+SQL> 
+SQL> 
+SQL> 
+SQL> 
+SQL> 
+SQL> spool off

@@ -1,0 +1,1 @@
+SELECT UPPER(STATE) FROM TEMP_SUBVEP MINUS select name from countrY_state where country = 'INDIA'

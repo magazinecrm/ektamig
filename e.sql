@@ -1,0 +1,1 @@
+select eflag from temp_subvep where mflag ='d';
